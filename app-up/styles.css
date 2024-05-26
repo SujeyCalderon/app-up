@@ -1,0 +1,21 @@
+footer{
+  background-color: black;
+  color: white;
+}
+
+#claseb{
+  background-color: white;
+}
+
+#tituloP{
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  margin-top: 30px;
+  margin-left: -20px;
+}
+
+#tituloPB{
+  color: white;
+  font-weight: bold;
+  font-size: 3em;
+}

@@ -1,0 +1,43 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 20px;
+}
+footer{
+  background-color: black;
+  color: rgb(239, 237, 237);
+}
+#myForm {
+  display: none; 
+  margin-top: 20px;
+}
+#myForm1 {
+  display: none; 
+  margin-top: 20px;
+}
+#myForm2 {
+  display: none; 
+  margin-top: 20px;
+}
+#myForm3{
+  display: none; 
+  margin-top: 20px;
+}
+
+.navbar {
+  padding: 0;
+}
+
+.navbar img {
+  margin-right: 10px;
+}
+
+#claseb img {
+  margin-top: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
